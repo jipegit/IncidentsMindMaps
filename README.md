@@ -1,2 +1,3 @@
-# IncidentsMindMaps
-Incidents Mind Maps
+# Cybersecurity Mind Maps
+
+Cybersecurity Incidents Mind Maps
