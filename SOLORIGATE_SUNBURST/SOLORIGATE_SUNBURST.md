@@ -13,7 +13,7 @@
 
 ### Microsoft (stage 1)
 
-- https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/
+- 🧭 READ FIRST: https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/
 
 - https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/
 
@@ -29,15 +29,23 @@
 
 	- https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754
 
+- IR
+
+	- https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/
+
 ### Unnamed Think Tank
 
 - https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
 
-## Hunting
+## Hunting / Detection
 
 ### Hunting w/ Sentinel
 
 - https://techcommunity.microsoft.com/t5/azure-sentinel/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095
+
+### Azure AD Monitor
+
+- https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718
 
 ### Hunting w/ Splunk
 
@@ -50,6 +58,10 @@
 ### ATT&CK
 
 - https://medium.com/mitre-attack/identifying-unc2452-related-techniques-9f7b6c7f3714
+
+### Zeek
+
+- https://corelight.blog/2020/12/22/detecting-sunburst-solarigate-activity-in-retrospect-with-zeek-a-practical-example/
 
 ## Security Avisory
 
@@ -79,6 +91,8 @@
 
 - https://blog.prevasio.com/2020/12/sunburst-backdoor-deeper-look-into.html
 
+- https://www.guidepointsecurity.com/analysis-of-the-solarwinds-supply-chain-attack/
+
 - « do not infect » domain hashes
 
 	- https://pastebin.com/KD4f4w5V
@@ -99,13 +113,15 @@
 
 		- https://pastebin.com/T0SRGkWq
 
+	- https://blog.prevasio.com/2020/12/sunburst-backdoor-part-ii-dga-list-of.html
+
+	- https://blog.prevasio.com/2020/12/sunburst-backdoor-part-iii-dga-security.html
+
 	- DGA Decoder
 
 		- https://github.com/2igosha/sunburst_dga
 
 		- https://github.com/RedDrip7/SunBurst_DGA_Decode
-
-	- https://blog.prevasio.com/2020/12/sunburst-backdoor-part-ii-dga-list-of.html
 
 - Hashes
 
@@ -117,11 +133,13 @@
 
 	- https://github.com/ITAYC0HEN/SUNBURST-Cracked/blob/main/OrionImprovementBusinessLayer_modified.cs
 
-### TEARDROP
+- https://twitter.com/reddrip7/status/1341654583886508037?s=21
 
-- https://twitter.com/_cpresearch_/status/1339952318717063168
+### TEARDROP
 
 - https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds
 
 - https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/
+
+	- https://twitter.com/_cpresearch_/status/1339952318717063168
 
