@@ -93,6 +93,8 @@
 
 - https://www.guidepointsecurity.com/analysis-of-the-solarwinds-supply-chain-attack/
 
+- https://twitter.com/reddrip7/status/1341654583886508037?s=21
+
 - « do not infect » domain hashes
 
 	- https://pastebin.com/KD4f4w5V
@@ -133,8 +135,6 @@
 
 	- https://github.com/ITAYC0HEN/SUNBURST-Cracked/blob/main/OrionImprovementBusinessLayer_modified.cs
 
-- https://twitter.com/reddrip7/status/1341654583886508037?s=21
-
 ### TEARDROP
 
 - https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds
@@ -142,4 +142,6 @@
 - https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/
 
 	- https://twitter.com/_cpresearch_/status/1339952318717063168
+
+- https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/
 
