@@ -11,6 +11,8 @@
 
 		- https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html
 
+- https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html
+
 ### Microsoft (stage 1)
 
 - 🧭 READ FIRST: https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/
@@ -62,6 +64,16 @@
 ### Zeek
 
 - https://corelight.blog/2020/12/22/detecting-sunburst-solarigate-activity-in-retrospect-with-zeek-a-practical-example/
+
+### CrowdStrike Reporting Tool for Azure
+
+- https://github.com/CrowdStrike/CRT
+
+### CISA - Sparrow
+
+- https://github.com/cisagov/Sparrow
+
+	- https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/
 
 ## Security Avisory
 
