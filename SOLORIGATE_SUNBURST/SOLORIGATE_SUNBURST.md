@@ -111,6 +111,8 @@
 
 - https://twitter.com/reddrip7/status/1341654583886508037?s=21
 
+- https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS
+
 - « do not infect » domain hashes
 
 	- https://pastebin.com/KD4f4w5V
