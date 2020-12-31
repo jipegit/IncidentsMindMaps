@@ -13,9 +13,13 @@
 
 - https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html
 
-### Microsoft (stage 1)
+### Microsoft
 
 - 🧭 READ FIRST: https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/
+
+	- Breach impact
+
+		- https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/
 
 - https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/
 
