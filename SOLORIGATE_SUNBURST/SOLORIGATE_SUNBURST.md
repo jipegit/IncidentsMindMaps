@@ -73,6 +73,8 @@
 
 - https://medium.com/mitre-attack/identifying-unc2452-related-techniques-9f7b6c7f3714
 
+- https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach
+
 ### Zeek
 
 - https://corelight.blog/2020/12/22/detecting-sunburst-solarigate-activity-in-retrospect-with-zeek-a-practical-example/
