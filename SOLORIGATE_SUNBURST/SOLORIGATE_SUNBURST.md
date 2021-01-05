@@ -1,6 +1,10 @@
 # SOLORIGATE
 
 
+## Attribution
+
+### https://www.recordedfuture.com/solarwinds-attribution/
+
 ## Victims
 
 ### FireEye
@@ -147,6 +151,8 @@
 
 		- https://github.com/RedDrip7/SunBurst_DGA_Decode
 
+	- https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS
+
 - Hashes
 
 	- https://twitter.com/tychotithonus/status/1340474080831688707?s=21
@@ -166,4 +172,8 @@
 	- https://twitter.com/_cpresearch_/status/1339952318717063168
 
 - https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/
+
+- IOC
+
+	- https://twitter.com/theenergystory/status/1346096298311741440?s=21
 
