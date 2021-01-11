@@ -5,6 +5,8 @@
 
 ### https://www.recordedfuture.com/solarwinds-attribution/
 
+### KAZUAR / TURLA
+
 ## Victims
 
 ### FireEye
@@ -164,6 +166,8 @@
 - Deobfuscated RE
 
 	- https://github.com/ITAYC0HEN/SUNBURST-Cracked/blob/main/OrionImprovementBusinessLayer_modified.cs
+
+- https://securelist.com/sunburst-backdoor-kazuar/99981/
 
 ### TEARDROP
 
