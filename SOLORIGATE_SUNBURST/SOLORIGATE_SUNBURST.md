@@ -49,6 +49,12 @@
 
 - https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
 
+### Solarwinds
+
+- https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/
+
+### List from Stage2 pDNS
+
 ## Hunting / Detection
 
 ### Hunting w/ Sentinel
@@ -125,6 +131,10 @@
 
 - https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS
 
+- https://securelist.com/sunburst-backdoor-kazuar/99981/
+
+- https://www.netresec.com/?page=Blog&month=2021-01&post=Robust-Indicators-of-Compromise-for-SUNBURST
+
 - « do not infect » domain hashes
 
 	- https://pastebin.com/KD4f4w5V
@@ -136,6 +146,8 @@
 	- https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/
 
 	- https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS
+
+	- https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS
 
 	- https://blog.cloudflare.com/a-quirk-in-the-sunburst-dga-algorithm/
 
@@ -155,8 +167,6 @@
 
 		- https://github.com/RedDrip7/SunBurst_DGA_Decode
 
-	- https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS
-
 - Hashes
 
 	- https://twitter.com/tychotithonus/status/1340474080831688707?s=21
@@ -166,8 +176,6 @@
 - Deobfuscated RE
 
 	- https://github.com/ITAYC0HEN/SUNBURST-Cracked/blob/main/OrionImprovementBusinessLayer_modified.cs
-
-- https://securelist.com/sunburst-backdoor-kazuar/99981/
 
 ### TEARDROP
 
@@ -182,4 +190,8 @@
 - IOC
 
 	- https://twitter.com/theenergystory/status/1346096298311741440?s=21
+
+### SUNSPOT
+
+- https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/
 
