@@ -7,6 +7,8 @@
 
 ### KAZUAR / TURLA
 
+### https://www.domaintools.com/resources/blog/the-devils-in-the-details-sunburst-attribution?utm_source=Social&utm_medium=twitter&utm_campaign=The-Devils-in-the-Details-SUNBURST-Attribution
+
 ## Victims
 
 ### FireEye
