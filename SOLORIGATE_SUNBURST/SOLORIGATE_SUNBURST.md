@@ -21,6 +21,10 @@
 
 - https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html
 
+- Hardening
+
+	- https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html
+
 ### Microsoft
 
 - 🧭 READ FIRST: https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/
@@ -54,6 +58,10 @@
 ### Solarwinds
 
 - https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/
+
+### Malwarebytes
+
+- https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/
 
 ### List from Stage2 pDNS
 
@@ -98,6 +106,14 @@
 - https://github.com/cisagov/Sparrow
 
 	- https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/
+
+### Host - C2 match
+
+- https://www.trustedsec.com/blog/risingsun-decoding-sunburst-c2-to-identify-infected-hosts-without-network-telemetry/
+
+### Generic Playbook
+
+- https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/
 
 ## Security Avisory
 
@@ -196,4 +212,8 @@
 ### SUNSPOT
 
 - https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/
+
+### RAINDROP
+
+- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware
 
