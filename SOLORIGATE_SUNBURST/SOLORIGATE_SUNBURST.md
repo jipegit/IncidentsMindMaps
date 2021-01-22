@@ -205,6 +205,12 @@
 
 	- https://www.netresec.com/?page=Blog&month=2021-01&post=Robust-Indicators-of-Compromise-for-SUNBURST
 
+- Symantec
+
+	- Cf. teardrop analysis 
+
+	- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-sending-data
+
 - Kaspersky
 
 	- https://securelist.com/sunburst-backdoor-kazuar/99981/
@@ -241,6 +247,8 @@
 
 			- https://pastebin.com/T0SRGkWq
 
+		- https://www.domaintools.com/resources/blog/change-in-perspective-on-the-utility-of-sunburst-related-network-indicators
+
 	- Prevasio
 
 		- https://blog.prevasio.com/2020/12/sunburst-backdoor-part-ii-dga-list-of.html
@@ -256,6 +264,12 @@
 		- igosha
 
 			- https://github.com/2igosha/sunburst_dga
+
+	- Symantec
+
+		- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection
+
+		- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-unique-dga
 
 - FNV-1a-XOR Hashes
 
