@@ -233,6 +233,8 @@
 
 		- https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS
 
+		- https://www.netresec.com/?page=Blog&month=2021-01&post=Twenty-three-SUNBURST-Targets-Identified
+
 	- Cloudflare
 
 		- https://blog.cloudflare.com/a-quirk-in-the-sunburst-dga-algorithm/
@@ -270,6 +272,10 @@
 		- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection
 
 		- https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-unique-dga
+
+	- VriesHD
+
+		- https://vrieshd.medium.com/finding-sunburst-victims-and-targets-by-using-passivedns-osint-68f5704a3cdc
 
 - FNV-1a-XOR Hashes
 
