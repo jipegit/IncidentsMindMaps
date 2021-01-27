@@ -77,6 +77,20 @@
 
 - https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/
 
+### FidelisSecurity
+
+- https://fidelissecurity.com/threatgeek/data-protection/ongoing-analysis-solarwinds-impact/
+
+### Qualys & Palo Alto Networks 
+
+- https://www.forbes.com/sites/thomasbrewster/2021/01/25/solarwinds-hacks-virginia-regulator-and-5-billion-cybersecurity-firm-confirmed-as-targets/
+
+### Mimecast
+
+- https://www.mimecast.com/blog/important-update-from-mimecast/
+
+- https://www.mimecast.com/blog/important-security-update/
+
 ### Failed attempts
 
 - CrowdStrike
