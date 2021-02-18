@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>SOLORIGATE_SUNBURST</title>
+</head>
+<body>
+<outline text="SOLORIGATE"><outline text="Attribution"><outline text="https://www.recordedfuture.com/solarwinds-attribution/"></outline>
+<outline text="https://www.domaintools.com/resources/blog/the-devils-in-the-details-sunburst-attribution"></outline>
+<outline text="KAZUAR / TURLA"></outline>
+</outline>
+<outline text="Victims"><outline text="FireEye"><outline text="Breach Investigation"><outline text="https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html"><outline text="Initial discovery "><outline text="https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html"></outline>
+</outline>
+</outline>
+<outline text="https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html"></outline>
+</outline>
+<outline text="Remediation &amp; Hardening"><outline text="https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html"></outline>
+</outline>
+</outline>
+<outline text="Microsoft"><outline text="Solorigate Resources Center 🧭 READ FIRST"><outline text="https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/"></outline>
+</outline>
+<outline text="Breach Investigation"><outline text="https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/"></outline>
+</outline>
+<outline text="Advisory"><outline text="https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/"></outline>
+</outline>
+<outline text="Guidance &amp; Best Practices"><outline text="https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/"></outline>
+<outline text="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610"></outline>
+<outline text="https://www.microsoft.com/security/blog/2020/12/21/advice-for-incident-responders-on-recovery-from-systemic-identity-compromises/"></outline>
+</outline>
+<outline text="Detection"><outline text="cf. Hunting / Detection"></outline>
+</outline>
+<outline text="Hardening"><outline text="https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/"></outline>
+<outline text="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754"></outline>
+<outline text="https://www.microsoft.com/security/blog/2021/01/14/increasing-resilience-against-solorigate-and-other-sophisticated-attacks-with-microsoft-defender/"></outline>
+</outline>
+<outline text="Policy"><outline text="https://blogs.microsoft.com/on-the-issues/2020/12/17/cyberattacks-cybersecurity-solarwinds-fireeye/"></outline>
+</outline>
+</outline>
+<outline text="Unnamed Think Tank"><outline text="https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/"></outline>
+</outline>
+<outline text="Solarwinds"><outline text="https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/"></outline>
+</outline>
+<outline text="Malwarebytes"><outline text="https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/"></outline>
+</outline>
+<outline text="FidelisSecurity"><outline text="https://fidelissecurity.com/threatgeek/data-protection/ongoing-analysis-solarwinds-impact/"></outline>
+</outline>
+<outline text="Qualys &amp; Palo Alto Networks "><outline text="https://www.forbes.com/sites/thomasbrewster/2021/01/25/solarwinds-hacks-virginia-regulator-and-5-billion-cybersecurity-firm-confirmed-as-targets/"></outline>
+</outline>
+<outline text="Mimecast"><outline text="https://www.mimecast.com/blog/important-update-from-mimecast/"></outline>
+<outline text="https://www.mimecast.com/blog/important-security-update/"></outline>
+</outline>
+<outline text="Google"><outline text="https://cloud.google.com/blog/products/identity-security/how-were-helping-reshape-software-supply-chain-ecosystem-securely"></outline>
+</outline>
+<outline text="Failed attempts"><outline text="CrowdStrike"><outline text="Cf. CrowdStrike Reporting Tool for Azure blog post"></outline>
+</outline>
+</outline>
+<outline text="List from Stage2 pDNS"></outline>
+</outline>
+<outline text="Hunting / Detection"><outline text="Hunting w/ Sentinel"><outline text="https://techcommunity.microsoft.com/t5/azure-sentinel/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095"></outline>
+</outline>
+<outline text="Detection &amp; IR w/ Microsoft 365 Defender"><outline text="https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/"></outline>
+</outline>
+<outline text="Microsoft Defender for Identity"><outline text="https://techcommunity.microsoft.com/t5/microsoft-security-and/microsoft-defender-for-identity-expands-support-to-ad-fs-servers/ba-p/2058511"></outline>
+</outline>
+<outline text="Azure AD Monitor"><outline text="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718"></outline>
+</outline>
+<outline text="Hunting w/ Splunk"><outline text="https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html"></outline>
+</outline>
+<outline text="Yara"><outline text="https://github.com/fireeye/red_team_tool_countermeasures"></outline>
+</outline>
+<outline text="ATT&amp;CK"><outline text="https://medium.com/mitre-attack/identifying-unc2452-related-techniques-9f7b6c7f3714"></outline>
+<outline text="https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach"></outline>
+</outline>
+<outline text="Zeek"><outline text="https://corelight.blog/2020/12/22/detecting-sunburst-solarigate-activity-in-retrospect-with-zeek-a-practical-example/"></outline>
+</outline>
+<outline text="CrowdStrike Reporting Tool for Azure"><outline text="https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/"><outline text="https://github.com/CrowdStrike/CRT"></outline>
+</outline>
+</outline>
+<outline text="CISA - Sparrow"><outline text="https://github.com/cisagov/Sparrow"><outline text="https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/"></outline>
+</outline>
+</outline>
+<outline text="Host - C2 match"><outline text="https://www.trustedsec.com/blog/risingsun-decoding-sunburst-c2-to-identify-infected-hosts-without-network-telemetry/"></outline>
+</outline>
+<outline text="Generic Playbook"><outline text="https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/"></outline>
+</outline>
+</outline>
+<outline text="Security Advisory"><outline text="https://www.solarwinds.com/securityadvisory"></outline>
+<outline text="https://us-cert.cisa.gov/ncas/alerts/aa21-008a"></outline>
+<outline text="https://us-cert.cisa.gov/ncas/alerts/aa20-352a"></outline>
+<outline text="https://cyber.dhs.gov/ed/21-01/"></outline>
+<outline text="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-027a"></outline>
+<outline text="https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2451159/nsa-cybersecurity-advisory-malicious-actors-abuse-authentication-mechanisms-to/"></outline>
+<outline text="Cf. Victims / Microsoft / Advisory"></outline>
+</outline>
+<outline text="Implants"><outline text="SUNBURST"><outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html"></outline>
+</outline>
+<outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/"></outline>
+</outline>
+<outline text="Mcafee"><outline text="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/additional-analysis-into-the-sunburst-backdoor/"></outline>
+</outline>
+<outline text="CadoSecurity"><outline text="https://www.cadosecurity.com/post/responding-to-solarigate"></outline>
+</outline>
+<outline text="SentinelOne"><outline text="https://labs.sentinelone.com/solarwinds-sunburst-backdoor-inside-the-stealthy-apt-campaign/"></outline>
+</outline>
+<outline text="Truesec"><outline text="https://blog.truesec.com/2020/12/17/the-solarwinds-orion-sunburst-supply-chain-attack/"></outline>
+</outline>
+<outline text="ReversingLabs"><outline text="https://blog.reversinglabs.com/blog/sunburst-the-next-level-of-stealth"></outline>
+</outline>
+<outline text="Prevasio"><outline text="https://blog.prevasio.com/2020/12/sunburst-backdoor-deeper-look-into.html"></outline>
+</outline>
+<outline text="GuidePoint Security"><outline text="https://www.guidepointsecurity.com/analysis-of-the-solarwinds-supply-chain-attack/"></outline>
+</outline>
+<outline text="RedDrip Team, QiAnXin Technology"><outline text="https://twitter.com/reddrip7/status/1341654583886508037"></outline>
+</outline>
+<outline text="Netresec"><outline text="https://www.netresec.com/?page=Blog&amp;month=2020-12&amp;post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS"></outline>
+<outline text="https://www.netresec.com/?page=Blog&amp;month=2021-01&amp;post=Robust-Indicators-of-Compromise-for-SUNBURST"></outline>
+</outline>
+<outline text="Symantec"><outline text="Cf. teardrop analysis "></outline>
+<outline text="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-sending-data"></outline>
+</outline>
+<outline text="Kaspersky"><outline text="https://securelist.com/sunburst-backdoor-kazuar/99981/"></outline>
+<outline text="« do not infect » domain hashes"><outline text="https://pastebin.com/KD4f4w5V"></outline>
+<outline text="https://twitter.com/craiu/status/1341005999273091077"></outline>
+</outline>
+</outline>
+<outline text="DNS Infrastructure"><outline text="Kaspersky"><outline text="https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/"></outline>
+</outline>
+<outline text="Netresec"><outline text="https://www.netresec.com/?page=Blog&amp;month=2020-12&amp;post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS"></outline>
+<outline text="https://www.netresec.com/?page=Blog&amp;month=2021-01&amp;post=Finding-Targeted-SUNBURST-Victims-with-pDNS"></outline>
+<outline text="https://www.netresec.com/?page=Blog&amp;month=2021-01&amp;post=Twenty-three-SUNBURST-Targets-Identified"></outline>
+<outline text="https://www.netresec.com/?page=Blog&amp;month=2021-02&amp;post=Targeting-Process-for-the-SolarWinds-Backdoor"></outline>
+</outline>
+<outline text="Cloudflare"><outline text="https://blog.cloudflare.com/a-quirk-in-the-sunburst-dga-algorithm/"></outline>
+</outline>
+<outline text="RedDrip Team, QiAnXin Technology"><outline text="https://twitter.com/reddrip7/status/1339168187619790848"></outline>
+</outline>
+<outline text="DomainTools"><outline text="https://www.domaintools.com/resources/blog/continuous-eruption-further-analysis-of-the-solarwinds-supply-incident"><outline text="https://pastebin.com/T0SRGkWq"></outline>
+</outline>
+<outline text="https://www.domaintools.com/resources/blog/change-in-perspective-on-the-utility-of-sunburst-related-network-indicators"></outline>
+</outline>
+<outline text="Prevasio"><outline text="https://blog.prevasio.com/2020/12/sunburst-backdoor-part-ii-dga-list-of.html"></outline>
+<outline text="https://blog.prevasio.com/2020/12/sunburst-backdoor-part-iii-dga-security.html"></outline>
+</outline>
+<outline text="« DGA » Decoder"><outline text="RedDrip Team, QiAnXin Technology"><outline text="https://github.com/RedDrip7/SunBurst_DGA_Decode"></outline>
+</outline>
+<outline text="igosha"><outline text="https://github.com/2igosha/sunburst_dga"></outline>
+</outline>
+</outline>
+<outline text="Symantec"><outline text="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-attacks-stealthy-attackers-attempted-evade-detection"></outline>
+<outline text="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-unique-dga"></outline>
+</outline>
+<outline text="VriesHD"><outline text="https://vrieshd.medium.com/finding-sunburst-victims-and-targets-by-using-passivedns-osint-68f5704a3cdc"></outline>
+</outline>
+</outline>
+<outline text="FNV-1a-XOR Hashes"><outline text="https://twitter.com/tychotithonus/status/1340474080831688707?s=21"><outline text="https://docs.google.com/spreadsheets/d/1u0_Df5OMsdzZcTkBDiaAtObbIOkMa5xbeXdKk_k0vWs/htmlview"></outline>
+</outline>
+</outline>
+<outline text="Deobfuscated RE"><outline text="https://github.com/ITAYC0HEN/SUNBURST-Cracked/blob/main/OrionImprovementBusinessLayer_modified.cs"></outline>
+</outline>
+</outline>
+<outline text="TEARDROP"><outline text="Symantec"><outline text="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds"></outline>
+</outline>
+<outline text="CheckPoint"><outline text="https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/"><outline text="https://twitter.com/_cpresearch_/status/1339952318717063168"></outline>
+</outline>
+</outline>
+<outline text="PaloAltoNetworks"><outline text="https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/"></outline>
+<outline text="IOC"><outline text="https://twitter.com/theenergystory/status/1346096298311741440"></outline>
+</outline>
+</outline>
+<outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/"></outline>
+</outline>
+</outline>
+<outline text="SUNSPOT"><outline text="CrowdStrike"><outline text="https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/"></outline>
+</outline>
+</outline>
+<outline text="RAINDROP"><outline text="Symantec"><outline text="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware"></outline>
+</outline>
+<outline text="Microsoft"></outline>
+</outline>
+<outline text="CobaltStrike"><outline text="Microsoft"></outline>
+</outline>
+</outline>
+</outline>
+</body>
+</opml>

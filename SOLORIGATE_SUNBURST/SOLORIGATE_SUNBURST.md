@@ -91,6 +91,10 @@
 
 - https://www.mimecast.com/blog/important-security-update/
 
+### Google
+
+- https://cloud.google.com/blog/products/identity-security/how-were-helping-reshape-software-supply-chain-ecosystem-securely
+
 ### Failed attempts
 
 - CrowdStrike
@@ -155,7 +159,7 @@
 
 - https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/
 
-## Security Avisory
+## Security Advisory
 
 ### https://www.solarwinds.com/securityadvisory
 
@@ -164,6 +168,8 @@
 ### https://us-cert.cisa.gov/ncas/alerts/aa20-352a
 
 ### https://cyber.dhs.gov/ed/21-01/
+
+### https://us-cert.cisa.gov/ncas/analysis-reports/ar21-027a
 
 ### https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2451159/nsa-cybersecurity-advisory-malicious-actors-abuse-authentication-mechanisms-to/
 
@@ -249,6 +255,8 @@
 
 		- https://www.netresec.com/?page=Blog&month=2021-01&post=Twenty-three-SUNBURST-Targets-Identified
 
+		- https://www.netresec.com/?page=Blog&month=2021-02&post=Targeting-Process-for-the-SolarWinds-Backdoor
+
 	- Cloudflare
 
 		- https://blog.cloudflare.com/a-quirk-in-the-sunburst-dga-algorithm/
@@ -271,7 +279,7 @@
 
 		- https://blog.prevasio.com/2020/12/sunburst-backdoor-part-iii-dga-security.html
 
-	- DGA Decoder
+	- « DGA » Decoder
 
 		- RedDrip Team, QiAnXin Technology
 
