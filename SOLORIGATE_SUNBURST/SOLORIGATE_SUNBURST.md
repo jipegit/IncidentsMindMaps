@@ -37,6 +37,10 @@
 
 	- https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/
 
+	- Impact
+
+		- https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/
+
 - Advisory
 
 	- https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/
