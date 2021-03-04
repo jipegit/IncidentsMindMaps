@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Exchange_Marauder</title>
+</head>
+<body>
+<outline text="Exchange Marauder"><outline text="Tools"><outline text="Scanners"><outline text="https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse"></outline>
+</outline>
+</outline>
+<outline text="Attribution"><outline text="Microsoft"><outline text="https://blogs.microsoft.com/on-the-issues/2021/03/02/new-nation-state-cyberattacks/"><outline text="HAFNIUM"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Implants"><outline text="ChinaChopper"><outline text="https://twitter.com/jhencinski/status/1367225483407089665"></outline>
+<outline text="https://twitter.com/noottrak/status/1367276764741963780"></outline>
+</outline>
+</outline>
+<outline text="Security Advisory"><outline text="Microsoft"><outline text="https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/"><outline text="CVE-2021-26855
+CVE-2021-26857
+CVE-2021-26858
+CVE-2021-27065"></outline>
+</outline>
+<outline text="https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901"></outline>
+</outline>
+<outline text="CISA"><outline text="https://us-cert.cisa.gov/ncas/alerts/aa20-352a"></outline>
+</outline>
+</outline>
+<outline text="Operation"><outline text="Volexity"><outline text="https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/"></outline>
+</outline>
+<outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/"><outline text="TTP"><outline text="Command &amp; Control"><outline text="https://github.com/cobbr/Covenant"></outline>
+</outline>
+<outline text="Exfiltration"><outline text="MEGA"></outline>
+</outline>
+<outline text="Execution"><outline text="Nishang"><outline text="https://github.com/samratashok/nishang"></outline>
+</outline>
+</outline>
+</outline>
+</outline>
+</outline>
+</outline>
+</outline>
+</body>
+</opml>
