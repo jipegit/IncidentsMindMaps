@@ -180,6 +180,13 @@
 </outline>
 <outline text="CobaltStrike"><outline text="Microsoft"></outline>
 </outline>
+<outline text="GoldMax / SUNSHUTTLE"><outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/"></outline>
+</outline>
+<outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html"></outline>
+</outline>
+</outline>
+<outline text="GoldFinger"></outline>
+<outline text="Sibot"></outline>
 </outline>
 </outline>
 </body>
