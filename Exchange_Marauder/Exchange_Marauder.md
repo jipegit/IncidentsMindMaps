@@ -7,6 +7,20 @@
 
 - https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse
 
+### Detection
+
+- Rapid7
+
+	- https://blog.rapid7.com/2021/03/03/rapid7s-insightidr-enables-detection-and-response-to-microsoft-exchange-0-day/
+
+- CrowdStrike
+
+	- https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/
+
+- FireEye
+
+	- Detection and Response to Exploitation of Microsoft Exchange Zero-Day Vulnerabilities
+
 ## Attribution
 
 ### Microsoft
@@ -33,6 +47,8 @@
 	  CVE-2021-26857  
 	  CVE-2021-26858  
 	  CVE-2021-27065
+
+- https://msrc-blog.microsoft.com/2021/03/05/microsoft-exchange-server-vulnerabilities-mitigations-march-2021/
 
 - https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901
 
@@ -65,12 +81,4 @@
 			- Nishang
 
 				- https://github.com/samratashok/nishang
-
-### Rapid7
-
-- https://blog.rapid7.com/2021/03/03/rapid7s-insightidr-enables-detection-and-response-to-microsoft-exchange-0-day/
-
-### CrowdStrike
-
-- https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/
 

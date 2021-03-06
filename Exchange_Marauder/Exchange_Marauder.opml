@@ -6,6 +6,13 @@
 <body>
 <outline text="Exchange Marauder"><outline text="Tools"><outline text="Scanners"><outline text="https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse"></outline>
 </outline>
+<outline text="Detection"><outline text="Rapid7"><outline text="https://blog.rapid7.com/2021/03/03/rapid7s-insightidr-enables-detection-and-response-to-microsoft-exchange-0-day/"></outline>
+</outline>
+<outline text="CrowdStrike"><outline text="https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/"></outline>
+</outline>
+<outline text="FireEye"><outline text="Detection and Response to Exploitation of Microsoft Exchange Zero-Day Vulnerabilities"></outline>
+</outline>
+</outline>
 </outline>
 <outline text="Attribution"><outline text="Microsoft"><outline text="https://blogs.microsoft.com/on-the-issues/2021/03/02/new-nation-state-cyberattacks/"><outline text="HAFNIUM"></outline>
 </outline>
@@ -20,6 +27,7 @@ CVE-2021-26857
 CVE-2021-26858
 CVE-2021-27065"></outline>
 </outline>
+<outline text="https://msrc-blog.microsoft.com/2021/03/05/microsoft-exchange-server-vulnerabilities-mitigations-march-2021/"></outline>
 <outline text="https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901"></outline>
 </outline>
 <outline text="CISA"><outline text="https://us-cert.cisa.gov/ncas/alerts/aa20-352a"></outline>
@@ -36,10 +44,6 @@ CVE-2021-27065"></outline>
 </outline>
 </outline>
 </outline>
-</outline>
-<outline text="Rapid7"><outline text="https://blog.rapid7.com/2021/03/03/rapid7s-insightidr-enables-detection-and-response-to-microsoft-exchange-0-day/"></outline>
-</outline>
-<outline text="CrowdStrike"><outline text="https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/"></outline>
 </outline>
 </outline>
 </outline>

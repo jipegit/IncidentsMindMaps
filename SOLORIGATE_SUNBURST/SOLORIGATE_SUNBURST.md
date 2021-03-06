@@ -355,3 +355,17 @@
 
 - Microsoft
 
+### GoldMax / SUNSHUTTLE
+
+- Microsoft
+
+	- https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/
+
+- FireEye
+
+	- https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html
+
+### GoldFinger
+
+### Sibot
+
