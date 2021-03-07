@@ -3,11 +3,19 @@
 
 ## Tools
 
-### Scanners
+### Vulnerability Scanners
 
-- https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse
+- Triage
 
-### Detection
+	- https://github.com/dpaulson45/HealthChecker#download
+
+- Microsoft
+
+	- https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse
+
+	- https://github.com/microsoft/CSS-Exchange/blob/main/Security/http-vuln-cve2021-26855.nse
+
+### Detection / Hunting
 
 - Rapid7
 
@@ -19,7 +27,23 @@
 
 - FireEye
 
-	- Detection and Response to Exploitation of Microsoft Exchange Zero-Day Vulnerabilities
+	- https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html
+
+- Microsoft
+
+	- https://github.com/microsoft/CSS-Exchange/blob/main/Security/Test-ProxyLogon.ps1
+
+	- 365-Defender-Hunting-Queries
+
+		- https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md
+
+- CERT-LV
+
+	- https://github.com/cert-lv/exchange_webshell_detection/blob/main/detect_webshells.ps1
+
+- Neo23x0
+
+	- https://github.com/Neo23x0/signature-base/blob/master/yara/apt_hafnium.yar#L172
 
 ## Attribution
 
@@ -55,6 +79,12 @@
 ### CISA
 
 - https://us-cert.cisa.gov/ncas/alerts/aa20-352a
+
+### https://proxylogon.com
+
+- CVE-2021-26855 
+
+- CVE-2021-27065
 
 ## Operation
 

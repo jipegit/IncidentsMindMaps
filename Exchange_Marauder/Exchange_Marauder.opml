@@ -4,13 +4,25 @@
 <title>Exchange_Marauder</title>
 </head>
 <body>
-<outline text="Exchange Marauder"><outline text="Tools"><outline text="Scanners"><outline text="https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse"></outline>
+<outline text="Exchange Marauder"><outline text="Tools"><outline text="Vulnerability Scanners"><outline text="Triage"><outline text="https://github.com/dpaulson45/HealthChecker#download"></outline>
 </outline>
-<outline text="Detection"><outline text="Rapid7"><outline text="https://blog.rapid7.com/2021/03/03/rapid7s-insightidr-enables-detection-and-response-to-microsoft-exchange-0-day/"></outline>
+<outline text="Microsoft"><outline text="https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse"></outline>
+<outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/http-vuln-cve2021-26855.nse"></outline>
+</outline>
+</outline>
+<outline text="Detection / Hunting"><outline text="Rapid7"><outline text="https://blog.rapid7.com/2021/03/03/rapid7s-insightidr-enables-detection-and-response-to-microsoft-exchange-0-day/"></outline>
 </outline>
 <outline text="CrowdStrike"><outline text="https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/"></outline>
 </outline>
-<outline text="FireEye"><outline text="Detection and Response to Exploitation of Microsoft Exchange Zero-Day Vulnerabilities"></outline>
+<outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html"></outline>
+</outline>
+<outline text="Microsoft"><outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/Test-ProxyLogon.ps1"></outline>
+<outline text="365-Defender-Hunting-Queries"><outline text="https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md"></outline>
+</outline>
+</outline>
+<outline text="CERT-LV"><outline text="https://github.com/cert-lv/exchange_webshell_detection/blob/main/detect_webshells.ps1"></outline>
+</outline>
+<outline text="Neo23x0"><outline text="https://github.com/Neo23x0/signature-base/blob/master/yara/apt_hafnium.yar#L172"></outline>
 </outline>
 </outline>
 </outline>
@@ -31,6 +43,9 @@ CVE-2021-27065"></outline>
 <outline text="https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901"></outline>
 </outline>
 <outline text="CISA"><outline text="https://us-cert.cisa.gov/ncas/alerts/aa20-352a"></outline>
+</outline>
+<outline text="https://proxylogon.com"><outline text="CVE-2021-26855 "></outline>
+<outline text="CVE-2021-27065"></outline>
 </outline>
 </outline>
 <outline text="Operation"><outline text="Volexity"><outline text="https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/"></outline>
