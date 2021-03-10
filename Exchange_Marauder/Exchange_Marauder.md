@@ -37,6 +37,10 @@
 
 		- https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md
 
+	- IOC Feed
+
+		- https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data/Feeds
+
 - CERT-LV
 
 	- https://github.com/cert-lv/exchange_webshell_detection/blob/main/detect_webshells.ps1
@@ -44,6 +48,10 @@
 - Neo23x0
 
 	- https://github.com/Neo23x0/signature-base/blob/master/yara/apt_hafnium.yar#L172
+
+- Unit221b
+
+	- https://checkmyowa.unit221b.com/
 
 ## Attribution
 
@@ -61,7 +69,21 @@
 
 - https://twitter.com/noottrak/status/1367276764741963780
 
-## Security Advisory
+## Emulation
+
+### Praetorian
+
+- https://www.praetorian.com/blog/reproducing-proxylogon-exploit/
+
+## Exploits
+
+### CVE-2021-26855
+
+- jsdryan
+
+	- https://github.com/jsdryan/CVE-2021-26855/blob/main/CVE-2021-26855.go
+
+## Security Advisories
 
 ### Microsoft
 
@@ -86,7 +108,7 @@
 
 - CVE-2021-27065
 
-## Operation
+## Incidents
 
 ### Volexity
 
@@ -111,4 +133,16 @@
 			- Nishang
 
 				- https://github.com/samratashok/nishang
+
+### Truesec
+
+- https://blog.truesec.com/2021/03/07/exchange-zero-day-proxylogon-and-hafnium/
+
+### RedCanary
+
+- https://redcanary.com/blog/microsoft-exchange-attacks/
+
+### PaloAlto Unit42
+
+- https://unit42.paloaltonetworks.com/china-chopper-webshell/
 

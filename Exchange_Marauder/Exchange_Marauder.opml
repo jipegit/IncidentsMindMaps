@@ -19,10 +19,14 @@
 <outline text="Microsoft"><outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/Test-ProxyLogon.ps1"></outline>
 <outline text="365-Defender-Hunting-Queries"><outline text="https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md"></outline>
 </outline>
+<outline text="IOC Feed"><outline text="https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data/Feeds"></outline>
+</outline>
 </outline>
 <outline text="CERT-LV"><outline text="https://github.com/cert-lv/exchange_webshell_detection/blob/main/detect_webshells.ps1"></outline>
 </outline>
 <outline text="Neo23x0"><outline text="https://github.com/Neo23x0/signature-base/blob/master/yara/apt_hafnium.yar#L172"></outline>
+</outline>
+<outline text="Unit221b"><outline text="https://checkmyowa.unit221b.com/"></outline>
 </outline>
 </outline>
 </outline>
@@ -34,7 +38,14 @@
 <outline text="https://twitter.com/noottrak/status/1367276764741963780"></outline>
 </outline>
 </outline>
-<outline text="Security Advisory"><outline text="Microsoft"><outline text="https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/"><outline text="CVE-2021-26855
+<outline text="Emulation"><outline text="Praetorian"><outline text="https://www.praetorian.com/blog/reproducing-proxylogon-exploit/"></outline>
+</outline>
+</outline>
+<outline text="Exploits"><outline text="CVE-2021-26855"><outline text="jsdryan"><outline text="https://github.com/jsdryan/CVE-2021-26855/blob/main/CVE-2021-26855.go"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Security Advisories"><outline text="Microsoft"><outline text="https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/"><outline text="CVE-2021-26855
 CVE-2021-26857
 CVE-2021-26858
 CVE-2021-27065"></outline>
@@ -48,7 +59,7 @@ CVE-2021-27065"></outline>
 <outline text="CVE-2021-27065"></outline>
 </outline>
 </outline>
-<outline text="Operation"><outline text="Volexity"><outline text="https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/"></outline>
+<outline text="Incidents"><outline text="Volexity"><outline text="https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/"></outline>
 </outline>
 <outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/"><outline text="TTP"><outline text="Command &amp; Control"><outline text="https://github.com/cobbr/Covenant"></outline>
 </outline>
@@ -59,6 +70,12 @@ CVE-2021-27065"></outline>
 </outline>
 </outline>
 </outline>
+</outline>
+<outline text="Truesec"><outline text="https://blog.truesec.com/2021/03/07/exchange-zero-day-proxylogon-and-hafnium/"></outline>
+</outline>
+<outline text="RedCanary"><outline text="https://redcanary.com/blog/microsoft-exchange-attacks/"></outline>
+</outline>
+<outline text="PaloAlto Unit42"><outline text="https://unit42.paloaltonetworks.com/china-chopper-webshell/"></outline>
 </outline>
 </outline>
 </outline>
