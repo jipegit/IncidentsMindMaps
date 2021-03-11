@@ -43,6 +43,10 @@
 </outline>
 <outline text="Exploits"><outline text="CVE-2021-26855"><outline text="jsdryan"><outline text="https://github.com/jsdryan/CVE-2021-26855/blob/main/CVE-2021-26855.go"></outline>
 </outline>
+<outline text="Rapid7"><outline text="https://github.com/rapid7/metasploit-framework/blob/f7fe97a1458df7b45562013af3a70f5bd0a8cf7b/modules/auxiliary/gather/exchange_proxylogon_collector.rb"></outline>
+</outline>
+</outline>
+<outline text="Information Gathering"><outline text="https://github.com/sophoslabs/metasploit_gather_exchange"></outline>
 </outline>
 </outline>
 <outline text="Security Advisories"><outline text="Microsoft"><outline text="https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/"><outline text="CVE-2021-26855
@@ -76,6 +80,10 @@ CVE-2021-27065"></outline>
 <outline text="RedCanary"><outline text="https://redcanary.com/blog/microsoft-exchange-attacks/"></outline>
 </outline>
 <outline text="PaloAlto Unit42"><outline text="https://unit42.paloaltonetworks.com/china-chopper-webshell/"></outline>
+</outline>
+<outline text="DomainTools"><outline text="https://www.domaintools.com/resources/blog/examining-exchange-exploitation-and-its-lessons-for-defenders"></outline>
+</outline>
+<outline text="ESET"><outline text="https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"></outline>
 </outline>
 </outline>
 </outline>

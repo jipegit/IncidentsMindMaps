@@ -83,6 +83,14 @@
 
 	- https://github.com/jsdryan/CVE-2021-26855/blob/main/CVE-2021-26855.go
 
+- Rapid7
+
+	- https://github.com/rapid7/metasploit-framework/blob/f7fe97a1458df7b45562013af3a70f5bd0a8cf7b/modules/auxiliary/gather/exchange_proxylogon_collector.rb
+
+### Information Gathering
+
+- https://github.com/sophoslabs/metasploit_gather_exchange
+
 ## Security Advisories
 
 ### Microsoft
@@ -145,4 +153,12 @@
 ### PaloAlto Unit42
 
 - https://unit42.paloaltonetworks.com/china-chopper-webshell/
+
+### DomainTools
+
+- https://www.domaintools.com/resources/blog/examining-exchange-exploitation-and-its-lessons-for-defenders
+
+### ESET
+
+- https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/
 
