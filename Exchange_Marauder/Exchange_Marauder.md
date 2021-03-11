@@ -31,8 +31,6 @@
 
 - Microsoft
 
-	- https://github.com/microsoft/CSS-Exchange/blob/main/Security/Test-ProxyLogon.ps1
-
 	- 365-Defender-Hunting-Queries
 
 		- https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md
@@ -40,6 +38,8 @@
 	- IOC Feed
 
 		- https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data/Feeds
+
+	- https://github.com/microsoft/CSS-Exchange/tree/main/Security
 
 - CERT-LV
 

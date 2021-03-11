@@ -16,11 +16,11 @@
 </outline>
 <outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html"></outline>
 </outline>
-<outline text="Microsoft"><outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/Test-ProxyLogon.ps1"></outline>
-<outline text="365-Defender-Hunting-Queries"><outline text="https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md"></outline>
+<outline text="Microsoft"><outline text="365-Defender-Hunting-Queries"><outline text="https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Execution/exchange-iis-worker-dropping-webshell.md"></outline>
 </outline>
 <outline text="IOC Feed"><outline text="https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data/Feeds"></outline>
 </outline>
+<outline text="https://github.com/microsoft/CSS-Exchange/tree/main/Security"></outline>
 </outline>
 <outline text="CERT-LV"><outline text="https://github.com/cert-lv/exchange_webshell_detection/blob/main/detect_webshells.ps1"></outline>
 </outline>
