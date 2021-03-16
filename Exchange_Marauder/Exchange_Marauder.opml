@@ -20,13 +20,20 @@
 </outline>
 <outline text="IOC Feed"><outline text="https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data/Feeds"></outline>
 </outline>
-<outline text="https://github.com/microsoft/CSS-Exchange/tree/main/Security"></outline>
+<outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/Test-ProxyLogon.ps1"></outline>
 </outline>
 <outline text="CERT-LV"><outline text="https://github.com/cert-lv/exchange_webshell_detection/blob/main/detect_webshells.ps1"></outline>
 </outline>
 <outline text="Neo23x0"><outline text="https://github.com/Neo23x0/signature-base/blob/master/yara/apt_hafnium.yar#L172"></outline>
 </outline>
 <outline text="Unit221b"><outline text="https://checkmyowa.unit221b.com/"></outline>
+</outline>
+</outline>
+<outline text="Mitigation"><outline text="Microsoft"><outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/ExchangeMitigations.ps1"></outline>
+<outline text="https://msrc-blog.microsoft.com/2021/03/15/one-click-microsoft-exchange-on-premises-mitigation-tool-march-2021/"></outline>
+</outline>
+</outline>
+<outline text="Remediation"><outline text="Microsoft"><outline text="https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download"></outline>
 </outline>
 </outline>
 </outline>
@@ -47,6 +54,8 @@
 </outline>
 </outline>
 <outline text="Information Gathering"><outline text="https://github.com/sophoslabs/metasploit_gather_exchange"></outline>
+</outline>
+<outline text="Public exploits"><outline text="https://github.com/hausec/ProxyLogon"></outline>
 </outline>
 </outline>
 <outline text="Security Advisories"><outline text="Microsoft"><outline text="https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/"><outline text="CVE-2021-26855

@@ -39,7 +39,7 @@
 
 		- https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data/Feeds
 
-	- https://github.com/microsoft/CSS-Exchange/tree/main/Security
+	- https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/Test-ProxyLogon.ps1
 
 - CERT-LV
 
@@ -52,6 +52,20 @@
 - Unit221b
 
 	- https://checkmyowa.unit221b.com/
+
+### Mitigation
+
+- Microsoft
+
+	- https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/ExchangeMitigations.ps1
+
+	- https://msrc-blog.microsoft.com/2021/03/15/one-click-microsoft-exchange-on-premises-mitigation-tool-march-2021/
+
+### Remediation
+
+- Microsoft
+
+	- https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download
 
 ## Attribution
 
@@ -90,6 +104,10 @@
 ### Information Gathering
 
 - https://github.com/sophoslabs/metasploit_gather_exchange
+
+### Public exploits
+
+- https://github.com/hausec/ProxyLogon
 
 ## Security Advisories
 
