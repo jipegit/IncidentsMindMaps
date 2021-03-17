@@ -95,6 +95,8 @@
 
 - https://www.mimecast.com/blog/important-security-update/
 
+- https://www.mimecast.com/incident-report/
+
 ### Google
 
 - https://cloud.google.com/blog/products/identity-security/how-were-helping-reshape-software-supply-chain-ecosystem-securely
@@ -355,17 +357,7 @@
 
 - Microsoft
 
-### GoldMax / SUNSHUTTLE
+### GoldMax, GoldFinder, and Sibot
 
 - Microsoft
-
-	- https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/
-
-- FireEye
-
-	- https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html
-
-### GoldFinger
-
-### Sibot
 

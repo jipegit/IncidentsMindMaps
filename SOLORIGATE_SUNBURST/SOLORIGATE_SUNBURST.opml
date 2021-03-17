@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <head>
-<title>SOLORIGATE_SUNBURST</title>
+<title>SOLORIGATE</title>
 </head>
 <body>
 <outline text="SOLORIGATE"><outline text="Attribution"><outline text="https://www.recordedfuture.com/solarwinds-attribution/"></outline>
@@ -49,6 +49,7 @@
 </outline>
 <outline text="Mimecast"><outline text="https://www.mimecast.com/blog/important-update-from-mimecast/"></outline>
 <outline text="https://www.mimecast.com/blog/important-security-update/"></outline>
+<outline text="https://www.mimecast.com/incident-report/"></outline>
 </outline>
 <outline text="Google"><outline text="https://cloud.google.com/blog/products/identity-security/how-were-helping-reshape-software-supply-chain-ecosystem-securely"></outline>
 </outline>
@@ -180,13 +181,8 @@
 </outline>
 <outline text="CobaltStrike"><outline text="Microsoft"></outline>
 </outline>
-<outline text="GoldMax / SUNSHUTTLE"><outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/"></outline>
+<outline text="GoldMax, GoldFinder, and Sibot"><outline text="Microsoft"></outline>
 </outline>
-<outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html"></outline>
-</outline>
-</outline>
-<outline text="GoldFinger"></outline>
-<outline text="Sibot"></outline>
 </outline>
 </outline>
 </body>
