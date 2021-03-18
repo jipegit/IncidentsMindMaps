@@ -55,7 +55,8 @@
 </outline>
 <outline text="Information Gathering"><outline text="https://github.com/sophoslabs/metasploit_gather_exchange"></outline>
 </outline>
-<outline text="Public exploits"><outline text="https://github.com/hausec/ProxyLogon"></outline>
+<outline text="CVE-2021-26855 &amp; CVE-2021-27065"><outline text="https://github.com/hausec/ProxyLogon"></outline>
+<outline text="https://gitlab.com/gvillegas/ohwaa/"></outline>
 </outline>
 </outline>
 <outline text="Security Advisories"><outline text="Microsoft"><outline text="https://msrc-blog.microsoft.com/2021/03/02/multiple-security-updates-released-for-exchange-server/"><outline text="CVE-2021-26855

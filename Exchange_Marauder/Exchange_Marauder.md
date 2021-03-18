@@ -105,9 +105,11 @@
 
 - https://github.com/sophoslabs/metasploit_gather_exchange
 
-### Public exploits
+### CVE-2021-26855 & CVE-2021-27065
 
 - https://github.com/hausec/ProxyLogon
+
+- https://gitlab.com/gvillegas/ohwaa/
 
 ## Security Advisories
 

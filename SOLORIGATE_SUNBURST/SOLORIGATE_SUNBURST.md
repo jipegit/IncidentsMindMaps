@@ -181,6 +181,8 @@
 
 ### Cf. Victims / Microsoft / Advisory
 
+### https://us-cert.cisa.gov/ncas/current-activity/2021/03/17/ttp-table-detecting-apt-activity-related-solarwinds-and-active
+
 ## Implants
 
 ### SUNBURST
