@@ -28,6 +28,8 @@
 </outline>
 <outline text="Unit221b"><outline text="https://checkmyowa.unit221b.com/"></outline>
 </outline>
+<outline text="Trustedsec"><outline text="https://github.com/trustedsec/defensive-scripts"></outline>
+</outline>
 </outline>
 <outline text="Mitigation"><outline text="Microsoft"><outline text="https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/ExchangeMitigations.ps1"></outline>
 <outline text="https://msrc-blog.microsoft.com/2021/03/15/one-click-microsoft-exchange-on-premises-mitigation-tool-march-2021/"></outline>

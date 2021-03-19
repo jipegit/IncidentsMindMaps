@@ -53,6 +53,10 @@
 
 	- https://checkmyowa.unit221b.com/
 
+- Trustedsec
+
+	- https://github.com/trustedsec/defensive-scripts
+
 ### Mitigation
 
 - Microsoft
