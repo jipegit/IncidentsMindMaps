@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <head>
-<title>SOLORIGATE</title>
+<title>SOLORIGATE_SUNBURST</title>
 </head>
 <body>
 <outline text="SOLORIGATE"><outline text="Attribution"><outline text="https://www.recordedfuture.com/solarwinds-attribution/"></outline>
 <outline text="https://www.domaintools.com/resources/blog/the-devils-in-the-details-sunburst-attribution"></outline>
 <outline text="KAZUAR / TURLA"></outline>
+<outline text="https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/"></outline>
+<outline text="https://www.gov.uk/government/news/russia-uk-exposes-russian-involvement-in-solarwinds-cyber-compromise"></outline>
+<outline text="https://www.gov.uk/government/news/russia-uk-and-us-expose-global-campaigns-of-malign-activity-by-russian-intelligence-services"></outline>
+<outline text="Support"><outline text="https://www.consilium.europa.eu/en/press/press-releases/2021/04/15/declaration-by-the-high-representative-on-behalf-of-the-european-union-expressing-solidarity-with-the-united-states-on-the-impact-of-the-solarwinds-cyber-operation/"></outline>
+<outline text="https://www.nato.int/cps/en/natohq/official_texts_183168.htm"></outline>
+</outline>
 </outline>
 <outline text="Victims"><outline text="FireEye"><outline text="Breach Investigation"><outline text="https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html"><outline text="Initial discovery "><outline text="https://news.yahoo.com/hackers-last-year-conducted-a-dry-run-of-solar-winds-breach-215232815.html"></outline>
 </outline>
@@ -94,6 +100,7 @@
 <outline text="https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2451159/nsa-cybersecurity-advisory-malicious-actors-abuse-authentication-mechanisms-to/"></outline>
 <outline text="Cf. Victims / Microsoft / Advisory"></outline>
 <outline text="https://us-cert.cisa.gov/ncas/current-activity/2021/03/17/ttp-table-detecting-apt-activity-related-solarwinds-and-active"></outline>
+<outline text="https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2573391/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabili/"></outline>
 </outline>
 <outline text="Implants"><outline text="SUNBURST"><outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html"></outline>
 </outline>
@@ -182,8 +189,14 @@
 </outline>
 <outline text="CobaltStrike"><outline text="Microsoft"></outline>
 </outline>
-<outline text="GoldMax, GoldFinder, and Sibot"><outline text="Microsoft"></outline>
+<outline text="GoldMax / SUNSHUTTLE"><outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/"></outline>
 </outline>
+<outline text="FireEye"><outline text="https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html"></outline>
+</outline>
+<outline text="CISA"><outline text="https://us-cert.cisa.gov/ncas/analysis-reports/ar21-105a"></outline>
+</outline>
+</outline>
+<outline text="Goldfinger, Sibot"></outline>
 </outline>
 </outline>
 </body>

@@ -9,6 +9,18 @@
 
 ### KAZUAR / TURLA
 
+### https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/
+
+### https://www.gov.uk/government/news/russia-uk-exposes-russian-involvement-in-solarwinds-cyber-compromise
+
+### https://www.gov.uk/government/news/russia-uk-and-us-expose-global-campaigns-of-malign-activity-by-russian-intelligence-services
+
+### Support
+
+- https://www.consilium.europa.eu/en/press/press-releases/2021/04/15/declaration-by-the-high-representative-on-behalf-of-the-european-union-expressing-solidarity-with-the-united-states-on-the-impact-of-the-solarwinds-cyber-operation/
+
+- https://www.nato.int/cps/en/natohq/official_texts_183168.htm
+
 ## Victims
 
 ### FireEye
@@ -182,6 +194,8 @@
 ### Cf. Victims / Microsoft / Advisory
 
 ### https://us-cert.cisa.gov/ncas/current-activity/2021/03/17/ttp-table-detecting-apt-activity-related-solarwinds-and-active
+
+### https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2573391/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabili/
 
 ## Implants
 
@@ -359,7 +373,19 @@
 
 - Microsoft
 
-### GoldMax, GoldFinder, and Sibot
+### GoldMax / SUNSHUTTLE
 
 - Microsoft
+
+	- https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/
+
+- FireEye
+
+	- https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html
+
+- CISA
+
+	- https://us-cert.cisa.gov/ncas/analysis-reports/ar21-105a
+
+### Goldfinger, Sibot
 
