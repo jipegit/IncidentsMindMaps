@@ -91,6 +91,8 @@
 </outline>
 <outline text="Generic Playbook"><outline text="https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/"></outline>
 </outline>
+<outline text="Microsoft IOC"><outline text="https://github.com/microsoft/mstic/tree/master/Indicators/May21-NOBELIUM"></outline>
+</outline>
 </outline>
 <outline text="Security Advisory"><outline text="https://www.solarwinds.com/securityadvisory"></outline>
 <outline text="https://us-cert.cisa.gov/ncas/alerts/aa21-008a"></outline>
@@ -197,6 +199,12 @@
 </outline>
 </outline>
 <outline text="Goldfinger, Sibot"></outline>
+<outline text="EnvyScout, BoomBox, NativeZone"><outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/"></outline>
+</outline>
+</outline>
+<outline text="FoggyWeb"><outline text="Microsoft"><outline text="https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/"></outline>
+</outline>
+</outline>
 </outline>
 </outline>
 </body>

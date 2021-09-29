@@ -177,6 +177,10 @@
 
 - https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/
 
+### Microsoft IOC
+
+- https://github.com/microsoft/mstic/tree/master/Indicators/May21-NOBELIUM
+
 ## Security Advisory
 
 ### https://www.solarwinds.com/securityadvisory
@@ -388,4 +392,16 @@
 	- https://us-cert.cisa.gov/ncas/analysis-reports/ar21-105a
 
 ### Goldfinger, Sibot
+
+### EnvyScout, BoomBox, NativeZone
+
+- Microsoft
+
+	- **https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/**
+
+### FoggyWeb
+
+- Microsoft
+
+	- https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/
 
